@@ -1,0 +1,44 @@
+INFO  00:07:22,708 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:07:22,745 - #2 program
+INFO  00:07:22,745 - #44 test301
+INFO  00:07:22,745 - #26 const
+INFO  00:07:22,746 - #44 int
+INFO  00:07:22,746 - #44 nula
+INFO  00:07:22,747 - #18 =
+INFO  00:07:22,747 - #46 0
+INFO  00:07:22,747 - #9 ;
+INFO  00:07:22,747 - #26 const
+INFO  00:07:22,748 - #44 int
+INFO  00:07:22,748 - #44 jedan
+INFO  00:07:22,748 - #18 =
+INFO  00:07:22,749 - #46 1
+INFO  00:07:22,749 - #9 ;
+INFO  00:07:22,749 - #26 const
+INFO  00:07:22,749 - #44 int
+INFO  00:07:22,749 - #44 pet
+INFO  00:07:22,749 - #18 =
+INFO  00:07:22,749 - #46 5
+INFO  00:07:22,920 - #9 ;
+INFO  00:07:22,921 - #44 int
+INFO  00:07:22,921 - #44 niz
+INFO  00:07:22,921 - #22 [
+INFO  00:07:22,921 - #23 ]
+INFO  00:07:22,921 - #9 ;
+INFO  00:07:22,926 - #44 char
+INFO  00:07:22,928 - #44 nizch
+INFO  00:07:22,928 - #22 [
+INFO  00:07:22,928 - #23 ]
+INFO  00:07:22,928 - #9 ;
+INFO  00:07:22,929 - #13 {
+INFO  00:07:22,929 - #42 void
+INFO  00:07:22,931 - #44 incInput
+INFO  00:07:22,933 - #11 (
+INFO  00:07:22,936 - #12 )
+INFO  00:07:22,938 - #44 int
+INFO  00:07:22,940 - #44 i
+INFO  00:07:22,940 - #44 hh
+ERROR 00:07:22,941 - 
+Sintaksna greska na liniji 14
+ERROR 00:07:22,941 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  00:07:22,967 - Print calls = 0
+ERROR 00:07:22,969 - Parsiranje NIJE uspesno zavrseno!

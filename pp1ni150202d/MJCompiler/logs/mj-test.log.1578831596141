@@ -1,0 +1,344 @@
+INFO  13:18:13,850 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:18:13,881 - #2 program
+INFO  13:18:13,881 - #44 test301
+INFO  13:18:13,881 - #26 const
+INFO  13:18:13,882 - #44 int
+INFO  13:18:13,882 - #44 nula
+INFO  13:18:13,883 - #18 =
+INFO  13:18:13,883 - #46 0
+INFO  13:18:13,883 - #9 ;
+INFO  13:18:13,883 - #26 const
+INFO  13:18:13,884 - #44 int
+INFO  13:18:13,884 - #44 jedan
+INFO  13:18:13,884 - #18 =
+INFO  13:18:13,884 - #46 1
+INFO  13:18:13,884 - #9 ;
+INFO  13:18:13,884 - #26 const
+INFO  13:18:13,884 - #44 int
+INFO  13:18:13,884 - #44 pet
+INFO  13:18:13,885 - #18 =
+INFO  13:18:13,885 - #46 5
+INFO  13:18:13,887 - #9 ;
+INFO  13:18:13,887 - #44 int
+INFO  13:18:13,887 - #44 niz
+INFO  13:18:13,887 - #22 [
+INFO  13:18:13,887 - #23 ]
+INFO  13:18:13,887 - #9 ;
+INFO  13:18:13,889 - #44 char
+INFO  13:18:13,889 - #44 nizch
+INFO  13:18:13,889 - #22 [
+INFO  13:18:13,889 - #23 ]
+INFO  13:18:13,889 - #9 ;
+INFO  13:18:13,889 - #13 {
+INFO  13:18:13,889 - #42 void
+INFO  13:18:13,890 - #44 incInput
+INFO  13:18:13,890 - #11 (
+INFO  13:18:13,891 - #12 )
+INFO  13:18:13,891 - #44 int
+INFO  13:18:13,892 - #44 i
+INFO  13:18:13,892 - #9 ;
+INFO  13:18:13,892 - #13 {
+INFO  13:18:13,892 - #41 read
+INFO  13:18:13,893 - #11 (
+INFO  13:18:13,893 - #44 i
+INFO  13:18:13,893 - #12 )
+INFO  13:18:13,893 - #9 ;
+INFO  13:18:13,893 - #5 print
+INFO  13:18:13,893 - #11 (
+INFO  13:18:13,893 - #44 i
+INFO  13:18:13,894 - #12 )
+INFO  13:18:13,897 - #9 ;
+INFO  13:18:13,897 - #44 i
+INFO  13:18:13,897 - #19 ++
+INFO  13:18:13,897 - #9 ;
+INFO  13:18:13,897 - #5 print
+INFO  13:18:13,897 - #11 (
+INFO  13:18:13,897 - #44 i
+INFO  13:18:13,898 - #12 )
+INFO  13:18:13,898 - #9 ;
+INFO  13:18:13,898 - #14 }
+INFO  13:18:13,898 - #42 void
+INFO  13:18:13,898 - #44 main
+INFO  13:18:13,899 - #11 (
+INFO  13:18:13,899 - #12 )
+INFO  13:18:13,899 - #44 int
+INFO  13:18:13,899 - #44 bodovi
+INFO  13:18:13,899 - #9 ;
+INFO  13:18:13,899 - #13 {
+INFO  13:18:13,899 - #44 bodovi
+INFO  13:18:13,899 - #18 =
+INFO  13:18:13,899 - #46 0
+INFO  13:18:13,899 - #9 ;
+INFO  13:18:13,899 - #44 bodovi
+INFO  13:18:13,900 - #19 ++
+INFO  13:18:13,900 - #9 ;
+INFO  13:18:13,900 - #44 bodovi
+INFO  13:18:13,900 - #18 =
+INFO  13:18:13,900 - #44 bodovi
+INFO  13:18:13,900 - #7 +
+INFO  13:18:13,900 - #44 jedan
+INFO  13:18:13,901 - #9 ;
+INFO  13:18:13,902 - #44 bodovi
+INFO  13:18:13,902 - #18 =
+INFO  13:18:13,902 - #44 bodovi
+INFO  13:18:13,902 - #37 *
+INFO  13:18:13,902 - #44 pet
+INFO  13:18:13,904 - #9 ;
+INFO  13:18:13,904 - #44 bodovi
+INFO  13:18:13,904 - #20 --
+INFO  13:18:13,905 - #9 ;
+INFO  13:18:13,905 - #5 print
+INFO  13:18:13,905 - #11 (
+INFO  13:18:13,905 - #44 bodovi
+INFO  13:18:13,905 - #12 )
+INFO  13:18:13,905 - #9 ;
+INFO  13:18:13,905 - #44 niz
+INFO  13:18:13,905 - #18 =
+INFO  13:18:13,905 - #25 new
+INFO  13:18:13,906 - #44 int
+INFO  13:18:13,906 - #22 [
+INFO  13:18:13,906 - #46 3
+INFO  13:18:13,906 - #23 ]
+INFO  13:18:13,906 - #9 ;
+INFO  13:18:13,906 - #44 niz
+INFO  13:18:13,906 - #22 [
+INFO  13:18:13,907 - #44 nula
+INFO  13:18:13,907 - #23 ]
+INFO  13:18:13,907 - #18 =
+INFO  13:18:13,908 - #44 jedan
+INFO  13:18:13,908 - #9 ;
+INFO  13:18:13,908 - #44 niz
+INFO  13:18:13,908 - #22 [
+INFO  13:18:13,908 - #46 1
+INFO  13:18:13,908 - #23 ]
+INFO  13:18:13,908 - #18 =
+INFO  13:18:13,908 - #46 2
+INFO  13:18:13,909 - #9 ;
+INFO  13:18:13,909 - #44 niz
+INFO  13:18:13,909 - #22 [
+INFO  13:18:13,909 - #44 niz
+INFO  13:18:13,909 - #22 [
+INFO  13:18:13,909 - #44 jedan
+INFO  13:18:13,909 - #23 ]
+INFO  13:18:13,909 - #23 ]
+INFO  13:18:13,909 - #18 =
+INFO  13:18:13,909 - #44 niz
+INFO  13:18:13,909 - #22 [
+INFO  13:18:13,909 - #44 niz
+INFO  13:18:13,910 - #22 [
+INFO  13:18:13,910 - #46 0
+INFO  13:18:13,910 - #23 ]
+INFO  13:18:13,910 - #23 ]
+INFO  13:18:13,910 - #37 *
+INFO  13:18:13,910 - #46 3
+INFO  13:18:13,914 - #9 ;
+INFO  13:18:13,914 - #44 bodovi
+INFO  13:18:13,914 - #18 =
+INFO  13:18:13,914 - #44 niz
+INFO  13:18:13,914 - #22 [
+INFO  13:18:13,915 - #46 2
+INFO  13:18:13,915 - #23 ]
+INFO  13:18:13,915 - #35 /
+INFO  13:18:13,915 - #44 niz
+INFO  13:18:13,915 - #22 [
+INFO  13:18:13,916 - #46 0
+INFO  13:18:13,916 - #23 ]
+INFO  13:18:13,916 - #9 ;
+INFO  13:18:13,916 - #5 print
+INFO  13:18:13,916 - #11 (
+INFO  13:18:13,916 - #44 bodovi
+INFO  13:18:13,916 - #12 )
+INFO  13:18:13,916 - #9 ;
+INFO  13:18:13,916 - #5 print
+INFO  13:18:13,916 - #11 (
+INFO  13:18:13,916 - #44 niz
+INFO  13:18:13,916 - #22 [
+INFO  13:18:13,916 - #46 2
+INFO  13:18:13,916 - #23 ]
+INFO  13:18:13,916 - #12 )
+INFO  13:18:13,916 - #9 ;
+INFO  13:18:13,917 - #44 nizch
+INFO  13:18:13,917 - #18 =
+INFO  13:18:13,917 - #25 new
+INFO  13:18:13,917 - #44 char
+INFO  13:18:13,917 - #22 [
+INFO  13:18:13,917 - #46 3
+INFO  13:18:13,917 - #23 ]
+INFO  13:18:13,917 - #9 ;
+INFO  13:18:13,917 - #44 nizch
+INFO  13:18:13,917 - #22 [
+INFO  13:18:13,917 - #46 0
+INFO  13:18:13,917 - #23 ]
+INFO  13:18:13,917 - #18 =
+INFO  13:18:13,917 - #45 a
+INFO  13:18:13,917 - #9 ;
+INFO  13:18:13,918 - #44 nizch
+INFO  13:18:13,918 - #22 [
+INFO  13:18:13,918 - #44 jedan
+INFO  13:18:13,918 - #23 ]
+INFO  13:18:13,918 - #18 =
+INFO  13:18:13,918 - #45 b
+INFO  13:18:13,918 - #9 ;
+INFO  13:18:13,918 - #44 nizch
+INFO  13:18:13,918 - #22 [
+INFO  13:18:13,918 - #44 pet
+INFO  13:18:13,918 - #33 -
+INFO  13:18:13,918 - #46 3
+INFO  13:18:13,919 - #23 ]
+INFO  13:18:13,919 - #18 =
+INFO  13:18:13,919 - #45 c
+INFO  13:18:13,919 - #9 ;
+INFO  13:18:13,919 - #5 print
+INFO  13:18:13,919 - #11 (
+INFO  13:18:13,919 - #44 nizch
+INFO  13:18:13,919 - #22 [
+INFO  13:18:13,919 - #46 1
+INFO  13:18:13,919 - #23 ]
+INFO  13:18:13,919 - #12 )
+INFO  13:18:13,920 - #9 ;
+INFO  13:18:13,920 - #5 print
+INFO  13:18:13,920 - #11 (
+INFO  13:18:13,920 - #44 nizch
+INFO  13:18:13,920 - #22 [
+INFO  13:18:13,920 - #44 jedan
+INFO  13:18:13,920 - #37 *
+INFO  13:18:13,920 - #46 2
+INFO  13:18:13,920 - #23 ]
+INFO  13:18:13,920 - #12 )
+INFO  13:18:13,920 - #9 ;
+INFO  13:18:13,920 - #44 bodovi
+INFO  13:18:13,920 - #18 =
+INFO  13:18:13,920 - #44 bodovi
+INFO  13:18:13,921 - #7 +
+INFO  13:18:13,921 - #11 (
+INFO  13:18:13,921 - #44 pet
+INFO  13:18:13,921 - #37 *
+INFO  13:18:13,921 - #44 jedan
+INFO  13:18:13,921 - #33 -
+INFO  13:18:13,921 - #46 1
+INFO  13:18:13,921 - #12 )
+INFO  13:18:13,921 - #37 *
+INFO  13:18:13,921 - #44 bodovi
+INFO  13:18:13,921 - #33 -
+INFO  13:18:13,922 - #11 (
+INFO  13:18:13,922 - #46 3
+INFO  13:18:13,922 - #38 %
+INFO  13:18:13,922 - #46 2
+INFO  13:18:13,922 - #7 +
+INFO  13:18:13,923 - #46 3
+INFO  13:18:13,923 - #37 *
+INFO  13:18:13,923 - #46 2
+INFO  13:18:13,923 - #33 -
+INFO  13:18:13,924 - #46 3
+INFO  13:18:13,924 - #12 )
+INFO  13:18:13,924 - #9 ;
+INFO  13:18:13,924 - #5 print
+INFO  13:18:13,924 - #11 (
+INFO  13:18:13,924 - #44 bodovi
+INFO  13:18:13,924 - #12 )
+INFO  13:18:13,924 - #9 ;
+INFO  13:18:13,925 - #44 incInput
+INFO  13:18:13,925 - #11 (
+INFO  13:18:13,925 - #12 )
+INFO  13:18:13,925 - #9 ;
+INFO  13:18:13,926 - #14 }
+INFO  13:18:13,926 - #14 }
+INFO  13:18:13,926 - #44 y
+ERROR 13:18:13,926 - 
+Sintaksna greska na liniji 58
+ERROR 13:18:13,926 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 58
+INFO  13:18:13,936 - Obradjuje se funkicija incInput na liniji 12
+INFO  13:18:13,937 - Dodata promenljiva i tipa int u tabelu simbola! na liniji 13
+INFO  13:18:13,937 - faktor var  na liniji 16
+INFO  13:18:13,937 - faktor var  na liniji 18
+INFO  13:18:13,938 - Obradjuje se funkicija main na liniji 21
+INFO  13:18:13,938 - Dodata promenljiva bodovi tipa int u tabelu simbola! na liniji 22
+INFO  13:18:13,938 - dsa na liniji 24
+INFO  13:18:13,938 - faktor var  na liniji 26
+ERROR 13:18:13,951 - ne postoji promjenljiva jedan na liniji 26
+INFO  13:18:13,952 - faktor var  na liniji 26
+INFO  13:18:13,952 - prvi 1 na liniji 26
+INFO  13:18:13,952 - drugi 1 na liniji 26
+INFO  13:18:13,952 - addExpr 1 na liniji 26
+INFO  13:18:13,952 - dsa na liniji 26
+INFO  13:18:13,953 - faktor var  na liniji 27
+ERROR 13:18:13,953 - ne postoji promjenljiva pet na liniji 27
+INFO  13:18:13,953 - faktor var  na liniji 27
+INFO  13:18:13,953 - dsa na liniji 27
+INFO  13:18:13,953 - faktor var  na liniji 29
+ERROR 13:18:13,953 - ne postoji promjenljiva niz na liniji 32
+INFO  13:18:13,953 - dsa na liniji 32
+ERROR 13:18:13,953 - ne postoji promjenljiva nula na liniji 33
+INFO  13:18:13,953 - faktor var  na liniji 33
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 33
+ERROR 13:18:13,954 - ne postoji promjenljiva jedan na liniji 33
+INFO  13:18:13,954 - faktor var  na liniji 33
+INFO  13:18:13,954 - dsa na liniji 33
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 34
+INFO  13:18:13,954 - dsa na liniji 34
+ERROR 13:18:13,954 - ne postoji promjenljiva jedan na liniji 35
+INFO  13:18:13,954 - faktor var  na liniji 35
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 35
+INFO  13:18:13,954 - faktor var  na liniji 35
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 35
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 35
+INFO  13:18:13,954 - faktor var  na liniji 35
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 35
+INFO  13:18:13,954 - faktor var  na liniji 35
+INFO  13:18:13,954 - dsa na liniji 35
+ERROR 13:18:13,954 - Niz niz nije definisan!!! na liniji 36
+INFO  13:18:13,955 - faktor var  na liniji 36
+ERROR 13:18:13,955 - Niz niz nije definisan!!! na liniji 36
+INFO  13:18:13,955 - faktor var  na liniji 36
+INFO  13:18:13,955 - dsa na liniji 36
+INFO  13:18:13,955 - faktor var  na liniji 37
+ERROR 13:18:13,955 - Niz niz nije definisan!!! na liniji 38
+INFO  13:18:13,955 - faktor var  na liniji 38
+ERROR 13:18:13,955 - ne postoji promjenljiva nizch na liniji 41
+INFO  13:18:13,955 - dsa na liniji 41
+ERROR 13:18:13,955 - Niz nizch nije definisan!!! na liniji 42
+INFO  13:18:13,955 - dsa na liniji 42
+ERROR 13:18:13,955 - ne postoji promjenljiva jedan na liniji 43
+INFO  13:18:13,955 - faktor var  na liniji 43
+ERROR 13:18:13,955 - Niz nizch nije definisan!!! na liniji 43
+INFO  13:18:13,955 - dsa na liniji 43
+ERROR 13:18:13,956 - ne postoji promjenljiva pet na liniji 44
+INFO  13:18:13,956 - faktor var  na liniji 44
+INFO  13:18:13,956 - prvi 1 na liniji 44
+INFO  13:18:13,956 - drugi 2 na liniji 44
+INFO  13:18:13,956 - addExpr 0 na liniji 44
+ERROR 13:18:13,957 - Niz nizch nije definisan!!! na liniji 44
+INFO  13:18:13,957 - dsa na liniji 44
+ERROR 13:18:13,957 - Niz nizch nije definisan!!! na liniji 45
+INFO  13:18:13,957 - faktor var  na liniji 45
+ERROR 13:18:13,957 - ne postoji promjenljiva jedan na liniji 46
+INFO  13:18:13,957 - faktor var  na liniji 46
+ERROR 13:18:13,957 - Niz nizch nije definisan!!! na liniji 46
+INFO  13:18:13,957 - faktor var  na liniji 46
+INFO  13:18:13,957 - faktor var  na liniji 49
+ERROR 13:18:13,957 - ne postoji promjenljiva pet na liniji 49
+INFO  13:18:13,957 - faktor var  na liniji 49
+ERROR 13:18:13,957 - ne postoji promjenljiva jedan na liniji 49
+INFO  13:18:13,957 - faktor var  na liniji 49
+INFO  13:18:13,957 - prvi 1 na liniji 49
+INFO  13:18:13,957 - drugi 1 na liniji 49
+INFO  13:18:13,957 - addExpr 1 na liniji 49
+INFO  13:18:13,957 - faktor expr  na liniji 20
+INFO  13:18:13,958 - faktor var  na liniji 49
+INFO  13:18:13,958 - prvi 1 na liniji 49
+INFO  13:18:13,958 - drugi 1 na liniji 49
+INFO  13:18:13,958 - addExpr 1 na liniji 49
+INFO  13:18:13,958 - prvi 1 na liniji 49
+INFO  13:18:13,958 - drugi 1 na liniji 49
+INFO  13:18:13,958 - addExpr 1 na liniji 49
+INFO  13:18:13,962 - prvi 1 na liniji 49
+INFO  13:18:13,962 - drugi 1 na liniji 49
+INFO  13:18:13,962 - addExpr 1 na liniji 49
+INFO  13:18:13,962 - faktor expr  na liniji 49
+INFO  13:18:13,962 - prvi 1 na liniji 49
+INFO  13:18:13,962 - drugi 1 na liniji 49
+INFO  13:18:13,962 - addExpr 1 na liniji 49
+INFO  13:18:13,962 - dsa na liniji 49
+INFO  13:18:13,962 - faktor var  na liniji 50
+INFO  13:18:13,963 - Print calls = 8
+ERROR 13:18:13,964 - Parsiranje NIJE uspesno zavrseno!

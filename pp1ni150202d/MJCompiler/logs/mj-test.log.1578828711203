@@ -1,0 +1,83 @@
+INFO  12:31:26,899 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:31:26,934 - #2 program
+INFO  12:31:26,934 - #44 MJProgram
+INFO  12:31:26,934 - #44 int
+INFO  12:31:26,935 - #44 x
+INFO  12:31:26,935 - #9 ;
+INFO  12:31:26,936 - #44 int
+INFO  12:31:26,937 - #44 y
+INFO  12:31:26,937 - #9 ;
+INFO  12:31:26,937 - #13 {
+INFO  12:31:26,937 - #44 int
+INFO  12:31:26,937 - #44 k
+INFO  12:31:26,938 - #11 (
+INFO  12:31:26,938 - #12 )
+INFO  12:31:26,939 - #44 int
+INFO  12:31:26,939 - #44 c
+INFO  12:31:26,939 - #9 ;
+INFO  12:31:26,939 - #13 {
+INFO  12:31:26,939 - #44 c
+INFO  12:31:26,940 - #18 =
+INFO  12:31:26,940 - #46 1
+INFO  12:31:26,943 - #9 ;
+INFO  12:31:26,945 - #6 return
+INFO  12:31:26,946 - #44 c
+INFO  12:31:26,946 - #7 +
+INFO  12:31:26,946 - #46 2
+INFO  12:31:26,947 - #9 ;
+INFO  12:31:26,948 - #14 }
+INFO  12:31:26,948 - #44 int
+INFO  12:31:26,948 - #44 main
+INFO  12:31:26,948 - #11 (
+INFO  12:31:26,949 - #12 )
+INFO  12:31:26,949 - #13 {
+INFO  12:31:26,949 - #44 y
+INFO  12:31:26,949 - #18 =
+INFO  12:31:26,949 - #46 2
+INFO  12:31:26,949 - #9 ;
+INFO  12:31:26,949 - #44 x
+INFO  12:31:26,949 - #18 =
+INFO  12:31:26,949 - #44 y
+INFO  12:31:26,949 - #7 +
+INFO  12:31:26,949 - #46 2
+INFO  12:31:26,949 - #9 ;
+INFO  12:31:26,949 - #44 y
+INFO  12:31:26,949 - #18 =
+INFO  12:31:26,949 - #44 k
+INFO  12:31:26,950 - #11 (
+INFO  12:31:26,950 - #12 )
+INFO  12:31:26,950 - #7 +
+INFO  12:31:26,951 - #46 3
+INFO  12:31:26,951 - #9 ;
+INFO  12:31:26,951 - #5 print
+INFO  12:31:26,951 - #11 (
+INFO  12:31:26,951 - #44 y
+INFO  12:31:26,951 - #12 )
+INFO  12:31:26,952 - #9 ;
+INFO  12:31:26,952 - #14 }
+INFO  12:31:26,952 - #14 }
+INFO  12:31:26,960 - Dodata promenljiva x tipa int u tabelu simbola! na liniji 2
+INFO  12:31:26,960 - Dodata promenljiva y tipa int u tabelu simbola! na liniji 2
+INFO  12:31:26,960 - Obradjuje se funkicija k na liniji 5
+INFO  12:31:26,960 - Dodata promenljiva c tipa int u tabelu simbola! na liniji 5
+INFO  12:31:26,961 - dsa na liniji 6
+INFO  12:31:26,961 - faktor var  na liniji 7
+INFO  12:31:26,961 - prvi 1 na liniji 7
+INFO  12:31:26,961 - drugi 1 na liniji 7
+INFO  12:31:26,961 - addExpr 1 na liniji 7
+INFO  12:31:26,961 - Obradjuje se funkicija main na liniji 10
+INFO  12:31:26,965 - dsa na liniji 11
+INFO  12:31:26,965 - faktor var  na liniji 12
+INFO  12:31:26,965 - prvi 1 na liniji 12
+INFO  12:31:26,965 - drugi 1 na liniji 12
+INFO  12:31:26,965 - addExpr 1 na liniji 12
+INFO  12:31:26,965 - dsa na liniji 12
+INFO  12:31:26,965 - faktor var  na liniji 13
+INFO  12:31:26,965 - prvi 1 na liniji 13
+INFO  12:31:26,965 - drugi 1 na liniji 13
+INFO  12:31:26,965 - addExpr 1 na liniji 13
+INFO  12:31:26,965 - dsa na liniji 13
+INFO  12:31:26,965 - faktor var  na liniji 14
+INFO  12:31:26,965 - Print calls = 1
+INFO  12:31:26,966 - Generating bytecode file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:31:26,977 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,54 @@
+INFO  12:34:47,749 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:34:47,781 - #2 program
+INFO  12:34:47,782 - #44 MJProgram
+INFO  12:34:47,782 - #44 int
+INFO  12:34:47,782 - #44 x
+INFO  12:34:47,783 - #9 ;
+INFO  12:34:47,784 - #44 int
+INFO  12:34:47,784 - #44 y
+INFO  12:34:47,784 - #9 ;
+INFO  12:34:47,784 - #13 {
+INFO  12:34:47,784 - #44 int
+INFO  12:34:47,785 - #44 k
+INFO  12:34:47,785 - #11 (
+INFO  12:34:47,786 - #12 )
+INFO  12:34:47,786 - #44 int
+INFO  12:34:47,787 - #44 c
+INFO  12:34:47,787 - #9 ;
+INFO  12:34:47,787 - #13 {
+INFO  12:34:47,787 - #44 c
+INFO  12:34:47,788 - #18 =
+INFO  12:34:47,788 - #46 1
+INFO  12:34:47,792 - #9 ;
+INFO  12:34:47,797 - #5 print
+INFO  12:34:47,797 - #11 (
+INFO  12:34:47,797 - #44 c
+INFO  12:34:47,798 - #7 +
+INFO  12:34:47,799 - #46 2
+INFO  12:34:47,800 - #12 )
+INFO  12:34:47,802 - #9 ;
+INFO  12:34:47,802 - #14 }
+INFO  12:34:47,802 - #44 int
+INFO  12:34:47,803 - #44 main
+INFO  12:34:47,803 - #11 (
+INFO  12:34:47,803 - #12 )
+INFO  12:34:47,803 - #13 {
+INFO  12:34:47,803 - #44 y
+INFO  12:34:47,804 - #18 =
+INFO  12:34:47,804 - #46 2
+INFO  12:34:47,804 - #9 ;
+INFO  12:34:47,804 - #44 x
+INFO  12:34:47,804 - #18 =
+INFO  12:34:47,804 - #44 y
+INFO  12:34:47,804 - #7 +
+INFO  12:34:47,804 - #46 2
+INFO  12:34:47,805 - #9 ;
+INFO  12:34:47,805 - #44 k
+INFO  12:34:47,805 - #11 (
+INFO  12:34:47,805 - #12 )
+INFO  12:34:47,806 - #44 y
+ERROR 12:34:47,806 - 
+Sintaksna greska na liniji 14
+ERROR 12:34:47,806 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  12:34:47,815 - Print calls = 0
+ERROR 12:34:47,816 - Parsiranje NIJE uspesno zavrseno!

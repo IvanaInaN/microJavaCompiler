@@ -1,0 +1,100 @@
+INFO  12:47:00,158 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:47:00,187 - #2 program
+INFO  12:47:00,187 - #44 MJProgram
+INFO  12:47:00,187 - #44 int
+INFO  12:47:00,188 - #44 x
+INFO  12:47:00,188 - #9 ;
+INFO  12:47:00,189 - #44 int
+INFO  12:47:00,189 - #44 y
+INFO  12:47:00,189 - #9 ;
+INFO  12:47:00,189 - #26 const
+INFO  12:47:00,190 - #44 int
+INFO  12:47:00,190 - #44 tri
+INFO  12:47:00,190 - #18 =
+INFO  12:47:00,190 - #46 3
+INFO  12:47:00,190 - #9 ;
+INFO  12:47:00,191 - #13 {
+INFO  12:47:00,191 - #42 void
+INFO  12:47:00,192 - #44 k
+INFO  12:47:00,192 - #11 (
+INFO  12:47:00,193 - #12 )
+INFO  12:47:00,193 - #44 int
+INFO  12:47:00,196 - #44 c
+INFO  12:47:00,196 - #9 ;
+INFO  12:47:00,196 - #13 {
+INFO  12:47:00,197 - #44 c
+INFO  12:47:00,197 - #18 =
+INFO  12:47:00,197 - #46 1
+INFO  12:47:00,198 - #9 ;
+INFO  12:47:00,200 - #5 print
+INFO  12:47:00,200 - #11 (
+INFO  12:47:00,200 - #44 c
+INFO  12:47:00,200 - #7 +
+INFO  12:47:00,200 - #44 tri
+INFO  12:47:00,201 - #12 )
+INFO  12:47:00,202 - #9 ;
+INFO  12:47:00,202 - #14 }
+INFO  12:47:00,202 - #44 int
+INFO  12:47:00,203 - #44 main
+INFO  12:47:00,203 - #11 (
+INFO  12:47:00,203 - #12 )
+INFO  12:47:00,203 - #13 {
+INFO  12:47:00,203 - #44 y
+INFO  12:47:00,203 - #18 =
+INFO  12:47:00,203 - #46 2
+INFO  12:47:00,203 - #9 ;
+INFO  12:47:00,203 - #44 x
+INFO  12:47:00,204 - #18 =
+INFO  12:47:00,204 - #44 y
+INFO  12:47:00,204 - #19 ++
+INFO  12:47:00,204 - #7 +
+INFO  12:47:00,204 - #46 2
+INFO  12:47:00,204 - #9 ;
+INFO  12:47:00,204 - #5 print
+INFO  12:47:00,204 - #11 (
+INFO  12:47:00,204 - #44 x
+INFO  12:47:00,204 - #12 )
+INFO  12:47:00,204 - #9 ;
+INFO  12:47:00,205 - #44 k
+INFO  12:47:00,205 - #11 (
+INFO  12:47:00,205 - #12 )
+INFO  12:47:00,205 - #9 ;
+INFO  12:47:00,206 - #44 y
+INFO  12:47:00,206 - #18 =
+INFO  12:47:00,206 - #44 x
+INFO  12:47:00,206 - #7 +
+INFO  12:47:00,206 - #46 3
+INFO  12:47:00,206 - #9 ;
+INFO  12:47:00,206 - #5 print
+INFO  12:47:00,206 - #11 (
+INFO  12:47:00,206 - #44 y
+INFO  12:47:00,206 - #12 )
+INFO  12:47:00,206 - #9 ;
+INFO  12:47:00,207 - #14 }
+INFO  12:47:00,207 - #14 }
+INFO  12:47:00,218 - Dodata promenljiva x tipa int u tabelu simbola! na liniji 2
+INFO  12:47:00,219 - Dodata promenljiva y tipa int u tabelu simbola! na liniji 2
+INFO  12:47:00,219 - Dodata konstanta tri koja ima vrednost: 3 na liniji 3
+INFO  12:47:00,219 - Obradjuje se funkicija k na liniji 6
+INFO  12:47:00,219 - Dodata promenljiva c tipa int u tabelu simbola! na liniji 6
+INFO  12:47:00,220 - dsa na liniji 7
+INFO  12:47:00,220 - faktor var  na liniji 8
+INFO  12:47:00,220 - faktor var  na liniji 8
+INFO  12:47:00,220 - prvi 1 na liniji 8
+INFO  12:47:00,220 - drugi 1 na liniji 8
+INFO  12:47:00,220 - addExpr 1 na liniji 8
+INFO  12:47:00,221 - Obradjuje se funkicija main na liniji 11
+INFO  12:47:00,221 - dsa na liniji 12
+INFO  12:47:00,221 - prvi 1 na liniji 13
+INFO  12:47:00,221 - drugi 1 na liniji 13
+INFO  12:47:00,221 - addExpr 1 na liniji 13
+INFO  12:47:00,221 - dsa na liniji 13
+INFO  12:47:00,221 - faktor var  na liniji 14
+INFO  12:47:00,221 - faktor var  na liniji 16
+INFO  12:47:00,221 - prvi 1 na liniji 16
+INFO  12:47:00,221 - drugi 1 na liniji 16
+INFO  12:47:00,221 - addExpr 1 na liniji 16
+INFO  12:47:00,222 - dsa na liniji 16
+INFO  12:47:00,222 - faktor var  na liniji 17
+INFO  12:47:00,222 - Print calls = 3
+INFO  12:47:00,223 - Generating bytecode file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj

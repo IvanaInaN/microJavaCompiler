@@ -1,0 +1,343 @@
+INFO  23:37:49,237 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:37:49,271 - #2 program
+INFO  23:37:49,271 - #44 test301
+INFO  23:37:49,271 - #26 const
+INFO  23:37:49,272 - #44 int
+INFO  23:37:49,272 - #44 jedan
+INFO  23:37:49,272 - #18 =
+INFO  23:37:49,273 - #46 1
+INFO  23:37:49,273 - #9 ;
+INFO  23:37:49,273 - #26 const
+INFO  23:37:49,274 - #44 int
+INFO  23:37:49,274 - #44 pet
+INFO  23:37:49,274 - #18 =
+INFO  23:37:49,274 - #46 5
+INFO  23:37:49,274 - #9 ;
+INFO  23:37:49,274 - #44 int
+INFO  23:37:49,274 - #44 niz
+INFO  23:37:49,274 - #22 [
+INFO  23:37:49,275 - #23 ]
+INFO  23:37:49,275 - #9 ;
+INFO  23:37:49,300 - #44 char
+INFO  23:37:49,301 - #44 nizch
+INFO  23:37:49,301 - #22 [
+INFO  23:37:49,301 - #23 ]
+INFO  23:37:49,301 - #9 ;
+INFO  23:37:49,301 - #44 bool
+INFO  23:37:49,302 - #44 b
+INFO  23:37:49,302 - #22 [
+INFO  23:37:49,302 - #23 ]
+INFO  23:37:49,302 - #9 ;
+INFO  23:37:49,302 - #13 {
+INFO  23:37:49,303 - #44 int
+INFO  23:37:49,304 - #44 inc
+INFO  23:37:49,305 - #11 (
+INFO  23:37:49,306 - #44 int
+INFO  23:37:49,307 - #44 broj
+INFO  23:37:49,307 - #12 )
+INFO  23:37:49,310 - #13 {
+INFO  23:37:49,312 - #6 return
+INFO  23:37:49,313 - #44 broj
+INFO  23:37:49,315 - #7 +
+INFO  23:37:49,321 - #46 1
+INFO  23:37:49,324 - #9 ;
+INFO  23:37:49,328 - #14 }
+INFO  23:37:49,329 - #42 void
+INFO  23:37:49,332 - #44 main
+INFO  23:37:49,334 - #11 (
+INFO  23:37:49,334 - #12 )
+INFO  23:37:49,335 - #44 int
+INFO  23:37:49,336 - #44 bodovi
+INFO  23:37:49,336 - #9 ;
+INFO  23:37:49,336 - #44 bool
+INFO  23:37:49,336 - #44 bl
+INFO  23:37:49,337 - #9 ;
+INFO  23:37:49,337 - #44 char
+INFO  23:37:49,337 - #44 c
+INFO  23:37:49,339 - #9 ;
+INFO  23:37:49,340 - #13 {
+INFO  23:37:49,340 - #44 niz
+INFO  23:37:49,341 - #18 =
+INFO  23:37:49,341 - #25 new
+INFO  23:37:49,342 - #44 int
+INFO  23:37:49,342 - #22 [
+INFO  23:37:49,343 - #46 4
+INFO  23:37:49,344 - #23 ]
+INFO  23:37:49,345 - #9 ;
+INFO  23:37:49,347 - #44 nizch
+INFO  23:37:49,348 - #18 =
+INFO  23:37:49,349 - #25 new
+INFO  23:37:49,349 - #44 char
+INFO  23:37:49,349 - #22 [
+INFO  23:37:49,350 - #46 4
+INFO  23:37:49,351 - #23 ]
+INFO  23:37:49,353 - #9 ;
+INFO  23:37:49,354 - #44 b
+INFO  23:37:49,354 - #18 =
+INFO  23:37:49,354 - #25 new
+INFO  23:37:49,355 - #44 bool
+INFO  23:37:49,355 - #22 [
+INFO  23:37:49,356 - #46 5
+INFO  23:37:49,356 - #23 ]
+INFO  23:37:49,356 - #9 ;
+INFO  23:37:49,357 - #41 read
+INFO  23:37:49,359 - #11 (
+INFO  23:37:49,359 - #44 b
+INFO  23:37:49,360 - #22 [
+INFO  23:37:49,363 - #46 0
+INFO  23:37:49,364 - #23 ]
+INFO  23:37:49,364 - #12 )
+INFO  23:37:49,366 - #9 ;
+INFO  23:37:49,366 - #41 read
+INFO  23:37:49,366 - #11 (
+INFO  23:37:49,367 - #44 niz
+INFO  23:37:49,367 - #22 [
+INFO  23:37:49,367 - #46 0
+INFO  23:37:49,368 - #23 ]
+INFO  23:37:49,368 - #12 )
+INFO  23:37:49,369 - #9 ;
+INFO  23:37:49,369 - #5 print
+INFO  23:37:49,370 - #11 (
+INFO  23:37:49,370 - #44 b
+INFO  23:37:49,370 - #22 [
+INFO  23:37:49,371 - #46 0
+INFO  23:37:49,371 - #23 ]
+INFO  23:37:49,371 - #12 )
+INFO  23:37:49,374 - #9 ;
+INFO  23:37:49,374 - #5 print
+INFO  23:37:49,375 - #11 (
+INFO  23:37:49,375 - #44 niz
+INFO  23:37:49,375 - #22 [
+INFO  23:37:49,375 - #46 0
+INFO  23:37:49,376 - #23 ]
+INFO  23:37:49,376 - #12 )
+INFO  23:37:49,376 - #9 ;
+INFO  23:37:49,376 - #44 niz
+INFO  23:37:49,376 - #22 [
+INFO  23:37:49,376 - #46 0
+INFO  23:37:49,376 - #23 ]
+INFO  23:37:49,377 - #19 ++
+INFO  23:37:49,377 - #9 ;
+INFO  23:37:49,377 - #5 print
+INFO  23:37:49,378 - #11 (
+INFO  23:37:49,378 - #44 niz
+INFO  23:37:49,379 - #22 [
+INFO  23:37:49,380 - #46 0
+INFO  23:37:49,380 - #23 ]
+INFO  23:37:49,380 - #12 )
+INFO  23:37:49,381 - #9 ;
+INFO  23:37:49,382 - #44 niz
+INFO  23:37:49,382 - #22 [
+INFO  23:37:49,382 - #46 0
+INFO  23:37:49,382 - #23 ]
+INFO  23:37:49,383 - #19 ++
+INFO  23:37:49,393 - #9 ;
+INFO  23:37:49,393 - #44 bodovi
+INFO  23:37:49,393 - #18 =
+INFO  23:37:49,394 - #44 niz
+INFO  23:37:49,394 - #22 [
+INFO  23:37:49,394 - #46 0
+INFO  23:37:49,395 - #23 ]
+INFO  23:37:49,395 - #9 ;
+INFO  23:37:49,395 - #5 print
+INFO  23:37:49,395 - #11 (
+INFO  23:37:49,396 - #44 bodovi
+INFO  23:37:49,396 - #12 )
+INFO  23:37:49,396 - #9 ;
+INFO  23:37:49,397 - #44 niz
+INFO  23:37:49,397 - #22 [
+INFO  23:37:49,397 - #44 bodovi
+INFO  23:37:49,397 - #23 ]
+INFO  23:37:49,398 - #19 ++
+INFO  23:37:49,398 - #9 ;
+INFO  23:37:49,398 - #44 niz
+INFO  23:37:49,398 - #22 [
+INFO  23:37:49,398 - #46 0
+INFO  23:37:49,399 - #23 ]
+INFO  23:37:49,399 - #19 ++
+INFO  23:37:49,399 - #9 ;
+INFO  23:37:49,400 - #5 print
+INFO  23:37:49,400 - #11 (
+INFO  23:37:49,400 - #44 niz
+INFO  23:37:49,400 - #22 [
+INFO  23:37:49,400 - #46 0
+INFO  23:37:49,400 - #23 ]
+INFO  23:37:49,401 - #12 )
+INFO  23:37:49,401 - #9 ;
+INFO  23:37:49,401 - #44 b
+INFO  23:37:49,401 - #22 [
+INFO  23:37:49,402 - #46 2
+INFO  23:37:49,402 - #23 ]
+INFO  23:37:49,402 - #18 =
+INFO  23:37:49,402 - #43 false
+INFO  23:37:49,402 - #9 ;
+INFO  23:37:49,403 - #44 bl
+INFO  23:37:49,403 - #18 =
+INFO  23:37:49,403 - #44 b
+INFO  23:37:49,403 - #22 [
+INFO  23:37:49,404 - #46 2
+INFO  23:37:49,404 - #23 ]
+INFO  23:37:49,404 - #9 ;
+INFO  23:37:49,404 - #5 print
+INFO  23:37:49,405 - #11 (
+INFO  23:37:49,405 - #44 bl
+INFO  23:37:49,405 - #12 )
+INFO  23:37:49,405 - #9 ;
+INFO  23:37:49,405 - #5 print
+INFO  23:37:49,406 - #11 (
+INFO  23:37:49,406 - #44 niz
+INFO  23:37:49,406 - #22 [
+INFO  23:37:49,406 - #46 0
+INFO  23:37:49,407 - #23 ]
+INFO  23:37:49,407 - #12 )
+INFO  23:37:49,408 - #9 ;
+INFO  23:37:49,408 - #44 bodovi
+INFO  23:37:49,408 - #18 =
+INFO  23:37:49,409 - #44 inc
+INFO  23:37:49,409 - #11 (
+INFO  23:37:49,409 - #44 niz
+INFO  23:37:49,409 - #22 [
+INFO  23:37:49,409 - #46 0
+INFO  23:37:49,410 - #23 ]
+INFO  23:37:49,410 - #12 )
+INFO  23:37:49,412 - #9 ;
+INFO  23:37:49,412 - #5 print
+INFO  23:37:49,413 - #11 (
+INFO  23:37:49,413 - #44 niz
+INFO  23:37:49,413 - #21 .
+INFO  23:37:49,413 - #44 len
+INFO  23:37:49,414 - #11 (
+INFO  23:37:49,414 - #12 )
+INFO  23:37:49,416 - #12 )
+INFO  23:37:49,417 - #9 ;
+INFO  23:37:49,417 - #14 }
+INFO  23:37:49,418 - #14 }
+INFO  23:37:49,459 - Dodata konstanta jedan koja ima vrednost: 1 na liniji 4
+INFO  23:37:49,460 - Dodata konstanta pet koja ima vrednost: 5 na liniji 5
+INFO  23:37:49,460 - Deklarisan niz niz na liniji 7
+INFO  23:37:49,460 - Deklarisan niz nizch na liniji 8
+INFO  23:37:49,461 - Deklarisan niz b na liniji 9
+INFO  23:37:49,461 - Obradjuje se funkicija inc na liniji 12
+INFO  23:37:49,461 - Dodat simbol broj u tabelu simbola  na liniji 12
+INFO  23:37:49,461 - faktor var  na liniji 14
+INFO  23:37:49,462 - prvi 1 na liniji 14
+INFO  23:37:49,462 - drugi 1 na liniji 14
+INFO  23:37:49,462 - addExpr 1 na liniji 14
+INFO  23:37:49,463 - Obradjuje se funkicija main na liniji 19
+INFO  23:37:49,463 - Dodata promenljiva bodovi tipa int u tabelu simbola! na liniji 20
+INFO  23:37:49,464 - Dodata promenljiva bl tipa bool u tabelu simbola! na liniji 21
+INFO  23:37:49,464 - Dodata promenljiva c tipa char u tabelu simbola! na liniji 22
+INFO  23:37:49,464 - dsa na liniji 26
+INFO  23:37:49,464 - dsa na liniji 27
+INFO  23:37:49,464 - dsa na liniji 28
+INFO  23:37:49,464 - Pristupa se nizu b na liniji 30
+INFO  23:37:49,464 - Pristupa se nizu niz na liniji 31
+INFO  23:37:49,464 - Pristupa se nizu b na liniji 33
+INFO  23:37:49,464 - faktor var  na liniji 33
+INFO  23:37:49,465 - Pristupa se nizu niz na liniji 34
+INFO  23:37:49,465 - faktor var  na liniji 34
+INFO  23:37:49,465 - Pristupa se nizu niz na liniji 38
+INFO  23:37:49,465 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:37:49,465 - Pristupa se nizu niz na liniji 39
+INFO  23:37:49,465 - faktor var  na liniji 39
+INFO  23:37:49,465 - Pristupa se nizu niz na liniji 40
+INFO  23:37:49,466 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:37:49,466 - Pristupa se nizu niz na liniji 41
+INFO  23:37:49,466 - faktor var  na liniji 41
+INFO  23:37:49,466 - dsa na liniji 41
+INFO  23:37:49,466 - faktor var  na liniji 42
+INFO  23:37:49,466 - faktor var  na liniji 43
+INFO  23:37:49,466 - Pristupa se nizu niz na liniji 43
+INFO  23:37:49,466 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorVar(
+        VarRef(
+         bodovi
+        ) [VarRef]
+        NoActPars(
+        ) [NoActPars]
+      ) [FactorVar]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:37:49,467 - Pristupa se nizu niz na liniji 44
+INFO  23:37:49,467 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:37:49,467 - Pristupa se nizu niz na liniji 45
+INFO  23:37:49,467 - faktor var  na liniji 45
+INFO  23:37:49,467 - Pristupa se nizu b na liniji 47
+INFO  23:37:49,467 - dsa na liniji 47
+INFO  23:37:49,468 - Pristupa se nizu b na liniji 48
+INFO  23:37:49,468 - faktor var  na liniji 48
+INFO  23:37:49,468 - dsa na liniji 48
+INFO  23:37:49,468 - faktor var  na liniji 49
+INFO  23:37:49,468 - Pristupa se nizu niz na liniji 50
+INFO  23:37:49,468 - faktor var  na liniji 50
+INFO  23:37:49,468 - Pristupa se nizu niz na liniji 51
+INFO  23:37:49,468 - faktor var  na liniji 51
+INFO  23:37:49,469 - faktor var  na liniji 51
+INFO  23:37:49,469 - dsa na liniji 51
+INFO  23:37:49,469 - faktor var  na liniji 52
+INFO  23:37:49,469 - Print calls = 8
+INFO  23:37:49,471 - Generating bytecode file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  23:37:49,480 - Parsiranje uspesno zavrseno!

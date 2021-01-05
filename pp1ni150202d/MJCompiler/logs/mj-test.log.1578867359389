@@ -1,0 +1,342 @@
+INFO  23:05:32,766 - Compiling source file: C:\Users\Korisnik\Desktop\pp-projekat\template\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:05:32,800 - #2 program
+INFO  23:05:32,800 - #44 test301
+INFO  23:05:32,800 - #26 const
+INFO  23:05:32,801 - #44 int
+INFO  23:05:32,801 - #44 jedan
+INFO  23:05:32,801 - #18 =
+INFO  23:05:32,801 - #46 1
+INFO  23:05:32,801 - #9 ;
+INFO  23:05:32,802 - #26 const
+INFO  23:05:32,803 - #44 int
+INFO  23:05:32,803 - #44 pet
+INFO  23:05:32,803 - #18 =
+INFO  23:05:32,803 - #46 5
+INFO  23:05:32,803 - #9 ;
+INFO  23:05:32,803 - #44 int
+INFO  23:05:32,803 - #44 niz
+INFO  23:05:32,803 - #22 [
+INFO  23:05:32,803 - #23 ]
+INFO  23:05:32,803 - #9 ;
+INFO  23:05:32,921 - #44 char
+INFO  23:05:32,923 - #44 nizch
+INFO  23:05:32,924 - #22 [
+INFO  23:05:32,924 - #23 ]
+INFO  23:05:32,924 - #9 ;
+INFO  23:05:32,924 - #44 bool
+INFO  23:05:32,925 - #44 b
+INFO  23:05:32,925 - #22 [
+INFO  23:05:32,925 - #23 ]
+INFO  23:05:32,925 - #9 ;
+INFO  23:05:32,925 - #13 {
+INFO  23:05:32,926 - #44 int
+INFO  23:05:32,927 - #44 inc
+INFO  23:05:32,928 - #11 (
+INFO  23:05:32,930 - #44 int
+INFO  23:05:32,930 - #44 broj
+INFO  23:05:32,930 - #12 )
+INFO  23:05:32,933 - #13 {
+INFO  23:05:32,935 - #6 return
+INFO  23:05:32,936 - #44 broj
+INFO  23:05:32,939 - #7 +
+INFO  23:05:32,946 - #46 1
+INFO  23:05:32,948 - #9 ;
+INFO  23:05:32,953 - #14 }
+INFO  23:05:32,953 - #42 void
+INFO  23:05:32,956 - #44 main
+INFO  23:05:32,958 - #11 (
+INFO  23:05:32,958 - #12 )
+INFO  23:05:32,960 - #44 int
+INFO  23:05:32,960 - #44 bodovi
+INFO  23:05:32,960 - #9 ;
+INFO  23:05:32,960 - #44 bool
+INFO  23:05:32,961 - #44 bl
+INFO  23:05:32,961 - #9 ;
+INFO  23:05:32,961 - #44 char
+INFO  23:05:32,961 - #44 c
+INFO  23:05:32,961 - #9 ;
+INFO  23:05:32,962 - #13 {
+INFO  23:05:32,962 - #44 niz
+INFO  23:05:32,962 - #18 =
+INFO  23:05:32,962 - #25 new
+INFO  23:05:32,963 - #44 int
+INFO  23:05:32,963 - #22 [
+INFO  23:05:32,963 - #46 4
+INFO  23:05:32,964 - #23 ]
+INFO  23:05:32,965 - #9 ;
+INFO  23:05:32,966 - #44 nizch
+INFO  23:05:32,967 - #18 =
+INFO  23:05:32,974 - #25 new
+INFO  23:05:32,986 - #44 char
+INFO  23:05:32,986 - #22 [
+INFO  23:05:32,987 - #46 4
+INFO  23:05:32,987 - #23 ]
+INFO  23:05:32,987 - #9 ;
+INFO  23:05:32,987 - #44 b
+INFO  23:05:32,988 - #18 =
+INFO  23:05:32,988 - #25 new
+INFO  23:05:32,988 - #44 bool
+INFO  23:05:32,988 - #22 [
+INFO  23:05:32,988 - #46 5
+INFO  23:05:32,989 - #23 ]
+INFO  23:05:32,989 - #9 ;
+INFO  23:05:32,991 - #41 read
+INFO  23:05:32,992 - #11 (
+INFO  23:05:32,992 - #44 b
+INFO  23:05:32,993 - #22 [
+INFO  23:05:32,995 - #46 0
+INFO  23:05:32,996 - #23 ]
+INFO  23:05:32,996 - #12 )
+INFO  23:05:32,997 - #9 ;
+INFO  23:05:32,997 - #41 read
+INFO  23:05:32,998 - #11 (
+INFO  23:05:32,998 - #44 niz
+INFO  23:05:32,999 - #22 [
+INFO  23:05:32,999 - #46 0
+INFO  23:05:32,999 - #23 ]
+INFO  23:05:33,000 - #12 )
+INFO  23:05:33,000 - #9 ;
+INFO  23:05:33,000 - #5 print
+INFO  23:05:33,001 - #11 (
+INFO  23:05:33,001 - #44 b
+INFO  23:05:33,001 - #22 [
+INFO  23:05:33,002 - #46 0
+INFO  23:05:33,002 - #23 ]
+INFO  23:05:33,002 - #12 )
+INFO  23:05:33,004 - #9 ;
+INFO  23:05:33,005 - #5 print
+INFO  23:05:33,006 - #11 (
+INFO  23:05:33,006 - #44 niz
+INFO  23:05:33,006 - #22 [
+INFO  23:05:33,007 - #46 0
+INFO  23:05:33,007 - #23 ]
+INFO  23:05:33,007 - #12 )
+INFO  23:05:33,007 - #9 ;
+INFO  23:05:33,008 - #44 niz
+INFO  23:05:33,008 - #22 [
+INFO  23:05:33,008 - #46 0
+INFO  23:05:33,008 - #23 ]
+INFO  23:05:33,009 - #19 ++
+INFO  23:05:33,009 - #9 ;
+INFO  23:05:33,009 - #5 print
+INFO  23:05:33,010 - #11 (
+INFO  23:05:33,010 - #44 niz
+INFO  23:05:33,010 - #22 [
+INFO  23:05:33,011 - #46 0
+INFO  23:05:33,011 - #23 ]
+INFO  23:05:33,011 - #12 )
+INFO  23:05:33,011 - #9 ;
+INFO  23:05:33,011 - #44 niz
+INFO  23:05:33,012 - #22 [
+INFO  23:05:33,012 - #46 0
+INFO  23:05:33,013 - #23 ]
+INFO  23:05:33,013 - #19 ++
+INFO  23:05:33,013 - #9 ;
+INFO  23:05:33,013 - #44 bodovi
+INFO  23:05:33,013 - #18 =
+INFO  23:05:33,013 - #44 niz
+INFO  23:05:33,014 - #22 [
+INFO  23:05:33,014 - #46 0
+INFO  23:05:33,014 - #23 ]
+INFO  23:05:33,014 - #9 ;
+INFO  23:05:33,014 - #5 print
+INFO  23:05:33,014 - #11 (
+INFO  23:05:33,014 - #44 bodovi
+INFO  23:05:33,015 - #12 )
+INFO  23:05:33,015 - #9 ;
+INFO  23:05:33,015 - #44 niz
+INFO  23:05:33,015 - #22 [
+INFO  23:05:33,015 - #44 bodovi
+INFO  23:05:33,015 - #23 ]
+INFO  23:05:33,016 - #19 ++
+INFO  23:05:33,016 - #9 ;
+INFO  23:05:33,016 - #44 niz
+INFO  23:05:33,016 - #22 [
+INFO  23:05:33,016 - #46 0
+INFO  23:05:33,017 - #23 ]
+INFO  23:05:33,017 - #19 ++
+INFO  23:05:33,017 - #9 ;
+INFO  23:05:33,017 - #5 print
+INFO  23:05:33,018 - #11 (
+INFO  23:05:33,018 - #44 niz
+INFO  23:05:33,018 - #22 [
+INFO  23:05:33,018 - #46 0
+INFO  23:05:33,018 - #23 ]
+INFO  23:05:33,018 - #12 )
+INFO  23:05:33,019 - #9 ;
+INFO  23:05:33,019 - #44 b
+INFO  23:05:33,019 - #22 [
+INFO  23:05:33,019 - #46 2
+INFO  23:05:33,019 - #23 ]
+INFO  23:05:33,019 - #18 =
+INFO  23:05:33,020 - #43 false
+INFO  23:05:33,020 - #9 ;
+INFO  23:05:33,020 - #44 bl
+INFO  23:05:33,021 - #18 =
+INFO  23:05:33,021 - #44 b
+INFO  23:05:33,022 - #22 [
+INFO  23:05:33,022 - #46 2
+INFO  23:05:33,022 - #23 ]
+INFO  23:05:33,022 - #9 ;
+INFO  23:05:33,022 - #5 print
+INFO  23:05:33,023 - #11 (
+INFO  23:05:33,023 - #44 bl
+INFO  23:05:33,023 - #12 )
+INFO  23:05:33,023 - #9 ;
+INFO  23:05:33,023 - #5 print
+INFO  23:05:33,023 - #11 (
+INFO  23:05:33,023 - #44 niz
+INFO  23:05:33,024 - #22 [
+INFO  23:05:33,024 - #46 0
+INFO  23:05:33,024 - #23 ]
+INFO  23:05:33,024 - #12 )
+INFO  23:05:33,025 - #9 ;
+INFO  23:05:33,025 - #44 bodovi
+INFO  23:05:33,025 - #18 =
+INFO  23:05:33,025 - #44 inc
+INFO  23:05:33,026 - #11 (
+INFO  23:05:33,026 - #44 niz
+INFO  23:05:33,027 - #22 [
+INFO  23:05:33,027 - #46 0
+INFO  23:05:33,027 - #23 ]
+INFO  23:05:33,027 - #12 )
+INFO  23:05:33,028 - #9 ;
+INFO  23:05:33,028 - #5 print
+INFO  23:05:33,028 - #11 (
+INFO  23:05:33,028 - #44 bodovi
+INFO  23:05:33,029 - #12 )
+INFO  23:05:33,030 - #9 ;
+INFO  23:05:33,030 - #14 }
+INFO  23:05:33,030 - #14 }
+INFO  23:05:33,061 - Dodata konstanta jedan koja ima vrednost: 1 na liniji 4
+INFO  23:05:33,061 - Dodata konstanta pet koja ima vrednost: 5 na liniji 5
+INFO  23:05:33,062 - Deklarisan niz niz na liniji 7
+INFO  23:05:33,062 - Deklarisan niz nizch na liniji 8
+ERROR 23:05:33,062 - Tip boolne postoji u tabeli simbola
+INFO  23:05:33,062 - Obradjuje se funkicija inc na liniji 12
+INFO  23:05:33,063 - Dodat simbol broj u tabelu simbola  na liniji 12
+INFO  23:05:33,063 - faktor var  na liniji 14
+INFO  23:05:33,063 - prvi 1 na liniji 14
+INFO  23:05:33,063 - drugi 1 na liniji 14
+INFO  23:05:33,064 - addExpr 1 na liniji 14
+INFO  23:05:33,066 - Obradjuje se funkicija main na liniji 19
+INFO  23:05:33,066 - Dodata promenljiva bodovi tipa int u tabelu simbola! na liniji 20
+ERROR 23:05:33,067 - Tip boolne postoji u tabeli simbola
+INFO  23:05:33,067 - Dodata promenljiva c tipa char u tabelu simbola! na liniji 22
+INFO  23:05:33,067 - dsa na liniji 26
+INFO  23:05:33,068 - dsa na liniji 27
+ERROR 23:05:33,068 - ne postoji promjenljiva b na liniji 28
+ERROR 23:05:33,069 - Tip boolne postoji u tabeli simbola
+INFO  23:05:33,069 - dsa na liniji 28
+ERROR 23:05:33,069 - Niz b nije definisan!!! na liniji 30
+INFO  23:05:33,069 - Pristupa se nizu niz na liniji 31
+ERROR 23:05:33,069 - Niz b nije definisan!!! na liniji 33
+INFO  23:05:33,070 - faktor var  na liniji 33
+INFO  23:05:33,070 - Pristupa se nizu niz na liniji 34
+INFO  23:05:33,070 - faktor var  na liniji 34
+INFO  23:05:33,070 - Pristupa se nizu niz na liniji 38
+INFO  23:05:33,070 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:05:33,070 - Pristupa se nizu niz na liniji 39
+INFO  23:05:33,071 - faktor var  na liniji 39
+INFO  23:05:33,071 - Pristupa se nizu niz na liniji 40
+INFO  23:05:33,071 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:05:33,071 - Pristupa se nizu niz na liniji 41
+INFO  23:05:33,072 - faktor var  na liniji 41
+INFO  23:05:33,072 - dsa na liniji 41
+INFO  23:05:33,072 - faktor var  na liniji 42
+INFO  23:05:33,073 - faktor var  na liniji 43
+INFO  23:05:33,073 - Pristupa se nizu niz na liniji 43
+INFO  23:05:33,073 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorVar(
+        VarRef(
+         bodovi
+        ) [VarRef]
+        NoActPars(
+        ) [NoActPars]
+      ) [FactorVar]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:05:33,074 - Pristupa se nizu niz na liniji 44
+INFO  23:05:33,074 - Info ArrayDesignator(
+  NameOfArray(
+   niz
+  ) [NameOfArray]
+  Expr(
+    SubOptionNo(
+    ) [SubOptionNo]
+    Term(
+      FactorNum(
+       0
+      ) [FactorNum]
+      WithoutMulopFactList(
+      ) [WithoutMulopFactList]
+    ) [Term]
+    AddopTermListDerived2(
+    ) [AddopTermListDerived2]
+  ) [Expr]
+) [ArrayDesignator]
+INFO  23:05:33,074 - Pristupa se nizu niz na liniji 45
+INFO  23:05:33,075 - faktor var  na liniji 45
+ERROR 23:05:33,075 - Niz b nije definisan!!! na liniji 47
+INFO  23:05:33,081 - dsa na liniji 47
+ERROR 23:05:33,084 - ne postoji promjenljiva bl na liniji 48
+ERROR 23:05:33,097 - Niz b nije definisan!!! na liniji 48
+INFO  23:05:33,097 - faktor var  na liniji 48
+INFO  23:05:33,097 - dsa na liniji 48
+ERROR 23:05:33,098 - ne postoji promjenljiva bl na liniji 49
+INFO  23:05:33,099 - faktor var  na liniji 49
+INFO  23:05:33,100 - Pristupa se nizu niz na liniji 50
+INFO  23:05:33,100 - faktor var  na liniji 50
+INFO  23:05:33,101 - Pristupa se nizu niz na liniji 51
+INFO  23:05:33,101 - faktor var  na liniji 51
+INFO  23:05:33,101 - faktor var  na liniji 51
+INFO  23:05:33,103 - dsa na liniji 51
+INFO  23:05:33,104 - faktor var  na liniji 52
+INFO  23:05:33,104 - Print calls = 8
+ERROR 23:05:33,109 - Parsiranje NIJE uspesno zavrseno!
